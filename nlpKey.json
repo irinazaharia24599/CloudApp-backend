@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eighth-anvil-349418",
+  "private_key_id": "94a386b35584578fe34efafe5992da7b9bec17e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3DUsOkDxqSj5t\n8d7TmG1+6VLMKb+LA0QMSIowmGQHK0nTgwzOg8oNHPDBICQpdBqXQXQgeL8CvvaT\nWhb4X6y/36HAsc3nYFD2tmOXiXZQ6VxeyOueqO+ssVQd3ZbGSgB3UaMMFTz3Dkf7\nTmQw3hKxZIM+s1iGS9w7DpRJpRS4XjnTZzS1svt9S+CZmw+BHsP12YKy/fkNoZwY\nuQEwo33CQhJ+BnIjlOBgTsqtQJNldSaJzbUK3zcBq5wQU49acp9hMYila9b3WUAc\nOXj6iNlYCq2yViDZ06/2MjAEHgzpQHDQ9RN9KJAm6Gerj3Fmjfd1q5KNSDJjgywi\nSCSmBlh7AgMBAAECggEAB4EQAU+AaosTTBviRU0LusGDQhi5YCWIy0geAif9Jx4V\n2gnr+Htb88r/7lWMUKFl2wA1QS+HWmwhsktl2FYeatnsHk4rtr8yvSp0+BK2kFKW\nFXypzB341VzfqenE8z64Diwr7E7ilO43nTcgJwYI63oct0allmZ9vMi4ONyqS3SK\nV8LQZIJpgzpTS/IiI8pdJEZ5+0HxO21GHz2DK8/uMVRWuy39s/3H+KYmDSEFDG0G\nf6LgGMNUsqb45KcqyYUOR8QbEYlns80XS5urZy+fZnAA04S7CLc1XQ/FOwG0gTyb\n2tJ8BNL4yquBn9Qf135VcFlTOo+9yXbc24oU0CvnAQKBgQDac+Sc+rG25Vwade8+\n20A+pK5Ia2z9HVn5GTSL44+7xXPnmNXdcgmtACN2+FdklqtkK/qrQtmKN8xAv4+x\nPTckWfAYD60Aun88tOtmgxkqFjmwx1YNNHR6sLHbho1gJYPbTHTbcYFHxIcIKcik\nLByVr9OePmL2FmBXRnACijq24QKBgQDWg7xB6TypDv7Hco7nVUX5seNbp58KKhoB\nmWgGIrqiO5Ra9wjbpqq2QbrjFa6pJLp9MJd6gbFNsgThATpUM9yYbMsEDqYy3f+0\nkVRDvirVLMiLw7iv5zkF22+Ycz+qUxEX7BNSqgzkv/xXsYG4LMTDV/BCtQMve1G+\nppXod/am2wKBgQCZ7xKIf6tdCxA04Sfebhc+TUM2auSZE+bDvjwl2wv8r+21pCAH\n9ITW8IMNIYBLtFQ/uTHhHrE2UY1Pju0NYuqJZgrmmZ06JzDjsUUzrmu8GX87j6uW\nkIEHt50M6SqUNrtMe/rYa4pC7TyNxwvIjAD0hbqkBqgraqcmuM7TK16mYQKBgAwW\nfkxEhVuNccPxa6YTgw7v/DzU9DxRZQfECj2WRWgQ7Wo203P1L1d32r0jIqV7YVre\nmxqXJlOXfXjkZdIK3hpkvwfqf2kMY3VcXyA2HhnHHUHq9IRNBkSTOfWgQO0rIyJy\n9h/JX1KgkuqqIQIs26WaVfqcUqKhU1jn8DiaUfbTAoGARKpEBpkPTawT0N5OP4Bo\ncOm4koL0fGL2RNBu9WhRZtSpVG5AqCOcqblPG3ojZzdht89Clh8PE9guqGQg6sbw\nvlezsdveoh3Tpzgkg0xBceDJ90kg+Rtm3jgb70O4Ih4EPLllqwkIuvU+dAttNozq\nY/Vd9F4E6pFTOK6+X7HwAaM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-nlp@eighth-anvil-349418.iam.gserviceaccount.com",
+  "client_id": "117896085085269731489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-nlp%40eighth-anvil-349418.iam.gserviceaccount.com"
+}
