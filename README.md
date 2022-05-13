@@ -1,5 +1,6 @@
 ## Introducere
 Aplicatia dezvoltata utilizeaza resurse de stocare puse la dispozitie de Google Cloud Platform (mai exact o baza de date SQL), avand ca scop principal exemplificarea utilizarii Google Natural Language API. 
+Aplicatia publicata se gaseste [aici](https://damp-brook-66360.herokuapp.com/), iar un demo al acesteia poate fi accesat [aici](https://youtu.be/ipwInQ-6Y1k).
 ## Descriere problemă 
 Subdomeniu al inteligenței artificiale și lingvisticii, prelucrarea limbajului natural (Natural Language Processing, abreviat NLP) reprezintă o abordare computerizată a analizei textului, care se bazează interacțiunea dintre calculator și limbajul uman pentru procesarea datelor. În alte cuvinte, în ziua de astăzi este necesar ca datele de tip text sau chiar audio să fie interpretate de calculatoare, iar aici intervine NLP.
 In scop demonstrativ, am utilizat API-ul furnizat de Google pentru a realiza sentiment analysis asupra unui text introdus de utilizator.
